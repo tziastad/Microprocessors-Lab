@@ -1,0 +1,301 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Dora\Desktop\Microprocessors\lab05
+vheilstoneseqAM
+!i10b 1
+Z1 !s100 >NNiZg]1EPMhTO>aWMBgP2
+Z2 I8;N1n:F9J9Y8ahV`m=n]S2
+Z3 V>]@kIEBb?0c1]_<Sj`PnM2
+Z4 dC:\Users\Dora\Desktop\Microprocessors\lab05-2
+Z5 w1640004730
+Z6 8C:/Users/Dora/Desktop/Microprocessors/lab05-2/heilstoneseqAM.v
+Z7 FC:/Users/Dora/Desktop/Microprocessors/lab05-2/heilstoneseqAM.v
+L0 3
+Z8 OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1640180926.902000
+!s107 C:/Users/Dora/Desktop/Microprocessors/lab05-2/heilstoneseqAM.v|
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/Dora/Desktop/Microprocessors/lab05-2/heilstoneseqAM.v|
+!s101 -O0
+Z10 o-work work -O0
+Z11 nheilstoneseq@a@m
+vheilstonesequene
+Z12 !s100 AZ]6eHD^bFiM1N39B:DH92
+Z13 IiAQ@BhE4[]Ql=`;0@GBUB1
+Z14 V6n?3GX8aIVZ;^W4k>GDN62
+R4
+Z15 w1640006218
+Z16 8C:/Users/Dora/Desktop/Microprocessors/lab05-2/heilstonesequence.v
+Z17 FC:/Users/Dora/Desktop/Microprocessors/lab05-2/heilstonesequence.v
+L0 2
+R8
+r1
+31
+Z18 !s90 -reportprogress|300|-work|work|C:/Users/Dora/Desktop/Microprocessors/lab05-2/heilstonesequence.v|
+R10
+!i10b 1
+!s85 0
+Z19 !s108 1640180926.796000
+Z20 !s107 C:/Users/Dora/Desktop/Microprocessors/lab05-2/heilstonesequence.v|
+!s101 -O0
+vMCPU
+Z21 !s100 5]FK<>bMn>G<zk3R]i0K=0
+Z22 I3?=>fiA>4=c9J8RO:5ULd2
+Z23 VP7R454o2Vb1c^W99<MJTR0
+R4
+Z24 w1639951683
+Z25 8C:/Users/Dora/Desktop/Microprocessors/lab05-2/work/microcpu-rtl/cpu.v
+Z26 FC:/Users/Dora/Desktop/Microprocessors/lab05-2/work/microcpu-rtl/cpu.v
+L0 1
+R8
+r1
+31
+Z27 !s90 -reportprogress|300|-work|work|C:/Users/Dora/Desktop/Microprocessors/lab05-2/work/microcpu-rtl/cpu.v|
+R10
+Z28 n@m@c@p@u
+Z29 !s108 1640180926.066000
+Z30 !s107 C:/Users/Dora/Desktop/Microprocessors/lab05-2/work/microcpu-rtl/cpu.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMCPU_Alu
+Z31 !s100 ;8CkJZKK_W3aYOk6OV;c70
+Z32 I29iR8dAh7>l2WPWWf?8RD3
+Z33 Vo7aoRMe638XE49Tk0>EHz3
+R4
+Z34 w1639937962
+Z35 8C:/Users/Dora/Desktop/Microprocessors/lab05-2/work/microcpu-rtl/alu.v
+Z36 FC:/Users/Dora/Desktop/Microprocessors/lab05-2/work/microcpu-rtl/alu.v
+L0 1
+R8
+r1
+31
+Z37 !s90 -reportprogress|300|-work|work|C:/Users/Dora/Desktop/Microprocessors/lab05-2/work/microcpu-rtl/alu.v|
+R10
+Z38 n@m@c@p@u_@alu
+Z39 !s108 1640180925.865000
+Z40 !s107 C:/Users/Dora/Desktop/Microprocessors/lab05-2/work/microcpu-rtl/alu.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMCPU_Alutb
+Z41 IH]TA3PS^;KP_Tb1H0RTPI0
+Z42 VT=bcXgo`mH^kNS75DQF1k3
+R4
+Z43 w1640007163
+Z44 8C:/Users/Dora/Desktop/Microprocessors/lab05-2/work/microcpu-rtl/alutb.v
+Z45 FC:/Users/Dora/Desktop/Microprocessors/lab05-2/work/microcpu-rtl/alutb.v
+L0 1
+R8
+r1
+31
+R10
+Z46 n@m@c@p@u_@alutb
+Z47 !s100 a^R5`eWe[TWVDbbUieod10
+Z48 !s108 1640180925.954000
+Z49 !s107 C:/Users/Dora/Desktop/Microprocessors/lab05-2/work/microcpu-rtl/alutb.v|
+Z50 !s90 -reportprogress|300|-work|work|C:/Users/Dora/Desktop/Microprocessors/lab05-2/work/microcpu-rtl/alutb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMCPU_AlutbB
+Z51 IR52AJfYAzd];f7mR2bcBL1
+Z52 VaYTJziB^f39ko]HZj?KP43
+R4
+Z53 w1639916259
+Z54 8C:/Users/Dora/Desktop/Microprocessors/lab05-2/alutbB.v
+Z55 FC:/Users/Dora/Desktop/Microprocessors/lab05-2/alutbB.v
+L0 1
+R8
+r1
+31
+R10
+Z56 n@m@c@p@u_@alutb@b
+Z57 !s100 mPJ8XL9Uk5dSD0URh:KcS0
+Z58 !s108 1640180926.263000
+Z59 !s107 C:/Users/Dora/Desktop/Microprocessors/lab05-2/alutbB.v|
+Z60 !s90 -reportprogress|300|-work|work|C:/Users/Dora/Desktop/Microprocessors/lab05-2/alutbB.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMCPU_RAMController
+Z61 !s100 g<F>Fa9@9JhnkBjaE>z8O0
+Z62 IXEn5AOaUT[V`L6;D:_LUg0
+Z63 VA7LX6N4aS>X^YNY=OLl981
+R4
+Z64 w1589815137
+Z65 8C:/Users/Dora/Desktop/Microprocessors/lab05-2/work/microcpu-rtl/ramcontroller.v
+Z66 FC:/Users/Dora/Desktop/Microprocessors/lab05-2/work/microcpu-rtl/ramcontroller.v
+L0 1
+R8
+r1
+31
+Z67 !s90 -reportprogress|300|-work|work|C:/Users/Dora/Desktop/Microprocessors/lab05-2/work/microcpu-rtl/ramcontroller.v|
+R10
+Z68 n@m@c@p@u_@r@a@m@controller
+Z69 !s108 1640180925.671000
+Z70 !s107 C:/Users/Dora/Desktop/Microprocessors/lab05-2/work/microcpu-rtl/ramcontroller.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMCPU_Registerfile
+Z71 !s100 ?>hn5b]JhHL0m;]S`e^GM0
+Z72 I<I9DEV=9Sjd8F44`e>Oim3
+Z73 VR;F=b29eH]@<kOeDVEElb0
+R4
+Z74 w1639567891
+Z75 8C:/Users/Dora/Desktop/Microprocessors/lab05-2/work/microcpu-rtl/registerfile.v
+Z76 FC:/Users/Dora/Desktop/Microprocessors/lab05-2/work/microcpu-rtl/registerfile.v
+L0 1
+R8
+r1
+31
+Z77 !s90 -reportprogress|300|-work|work|C:/Users/Dora/Desktop/Microprocessors/lab05-2/work/microcpu-rtl/registerfile.v|
+R10
+Z78 n@m@c@p@u_@registerfile
+Z79 !s108 1640180925.765000
+Z80 !s107 C:/Users/Dora/Desktop/Microprocessors/lab05-2/work/microcpu-rtl/registerfile.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMCPUtb
+Z81 !s100 `LJ5o1EGL]CMSl;d]N3P30
+Z82 I_We16j^4ig6>]VQKK:h<O3
+Z83 VG=M@eZKVhf@FoX^n:^;JJ2
+R4
+Z84 w1590100093
+Z85 8C:/Users/Dora/Desktop/Microprocessors/lab05-2/work/microcpu-rtl/cputb.v
+Z86 FC:/Users/Dora/Desktop/Microprocessors/lab05-2/work/microcpu-rtl/cputb.v
+L0 1
+R8
+r1
+31
+Z87 !s90 -reportprogress|300|-work|work|C:/Users/Dora/Desktop/Microprocessors/lab05-2/work/microcpu-rtl/cputb.v|
+R10
+Z88 n@m@c@p@utb
+Z89 !s108 1640180926.163000
+Z90 !s107 C:/Users/Dora/Desktop/Microprocessors/lab05-2/work/microcpu-rtl/cputb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vnewinstractionstb
+Z91 I4mLD=Nfhj<2JM^??e;HUl0
+Z92 VBbb_j7Ve^@[@`f9JOh?aR1
+R4
+Z93 w1640172434
+Z94 8C:/Users/Dora/Desktop/Microprocessors/lab05-2/newinstractionstb.v
+Z95 FC:/Users/Dora/Desktop/Microprocessors/lab05-2/newinstractionstb.v
+L0 2
+R8
+r1
+31
+R10
+Z96 !s100 @X7N]h]4zo11[oBHbDe?a2
+Z97 !s108 1640180926.714000
+Z98 !s107 C:/Users/Dora/Desktop/Microprocessors/lab05-2/newinstractionstb.v|
+Z99 !s90 -reportprogress|300|-work|work|C:/Users/Dora/Desktop/Microprocessors/lab05-2/newinstractionstb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vramcontrollertb
+Z100 Ie1LMT>L5Ebb00g^_3Ch]=3
+Z101 VRk6bRAiYS7C;DR4;:2fHd1
+R4
+Z102 w1640180918
+Z103 8C:\Users\Dora\Desktop\Microprocessors\lab05-2\ramcontrollertb.v
+Z104 FC:\Users\Dora\Desktop\Microprocessors\lab05-2\ramcontrollertb.v
+L0 1
+R8
+r1
+31
+R10
+Z105 !s100 3EGm9E4IO2AD=m]38P^Bg0
+Z106 !s108 1640180926.358000
+Z107 !s107 C:\Users\Dora\Desktop\Microprocessors\lab05-2\ramcontrollertb.v|
+Z108 !s90 -reportprogress|300|-work|work|C:\Users\Dora\Desktop\Microprocessors\lab05-2\ramcontrollertb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vramcontrollertbB
+Z109 !s100 DKnD2gWjg<g[L:c1>cLQD1
+Z110 ITG1MBN`HVL`666WiGzgUb0
+Z111 VE2C`N^Qm05LaITo=aFC5H1
+R4
+Z112 w1640101741
+Z113 8C:/Users/Dora/Desktop/Microprocessors/lab05-2/ramcontrollertbB.v
+Z114 FC:/Users/Dora/Desktop/Microprocessors/lab05-2/ramcontrollertbB.v
+L0 1
+R8
+r1
+31
+Z115 !s90 -reportprogress|300|-work|work|C:/Users/Dora/Desktop/Microprocessors/lab05-2/ramcontrollertbB.v|
+R10
+Z116 nramcontrollertb@b
+Z117 !s108 1640180926.457000
+Z118 !s107 C:/Users/Dora/Desktop/Microprocessors/lab05-2/ramcontrollertbB.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vregisterfileA
+Z119 !s100 ]FOPbAKIB_O8QCP<gZfe@3
+Z120 ImzgUl>=62Z;1<M`EZG[jY2
+Z121 V;fAIF=@<HkX6QSnG10=4e0
+R4
+Z122 w1640006023
+Z123 8C:/Users/Dora/Desktop/Microprocessors/lab05-2/registerfileA.v
+Z124 FC:/Users/Dora/Desktop/Microprocessors/lab05-2/registerfileA.v
+L0 2
+R8
+r1
+31
+Z125 !s90 -reportprogress|300|-work|work|C:/Users/Dora/Desktop/Microprocessors/lab05-2/registerfileA.v|
+R10
+Z126 nregisterfile@a
+Z127 !s108 1640180926.550000
+Z128 !s107 C:/Users/Dora/Desktop/Microprocessors/lab05-2/registerfileA.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vregisterfileB
+Z129 !s100 D0M>bEb7AZ`aaALW<_`742
+Z130 I]ZY_KTNRmG63Li0I4XEKn1
+Z131 V3oO[KRZSaBRdZ]oFQ8o[o1
+R4
+Z132 w1640102169
+Z133 8C:/Users/Dora/Desktop/Microprocessors/lab05-2/registerfileB.v
+Z134 FC:/Users/Dora/Desktop/Microprocessors/lab05-2/registerfileB.v
+L0 3
+R8
+r1
+31
+Z135 !s90 -reportprogress|300|-work|work|C:/Users/Dora/Desktop/Microprocessors/lab05-2/registerfileB.v|
+R10
+Z136 nregisterfile@b
+Z137 !s108 1640180926.633000
+Z138 !s107 C:/Users/Dora/Desktop/Microprocessors/lab05-2/registerfileB.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vshifttb
+Z139 I9Rd[<<MU7Moe70]I1_Gh<3
+Z140 VB5SR>de;YVH^1J0;m;>JA0
+R4
+Z141 w1640103407
+Z142 8C:\Users\Dora\Desktop\Microprocessors\lab05-2\shifttb.v
+Z143 FC:\Users\Dora\Desktop\Microprocessors\lab05-2\shifttb.v
+L0 3
+R8
+r1
+31
+R10
+Z144 !s100 gNG7gbU3`NXG3R=JhdIV@2
+Z145 !s108 1640103413.708000
+Z146 !s107 C:\Users\Dora\Desktop\Microprocessors\lab05-2\shifttb.v|
+Z147 !s90 -reportprogress|300|-work|work|C:\Users\Dora\Desktop\Microprocessors\lab05-2\shifttb.v|
+!i10b 1
+!s85 0
+!s101 -O0

@@ -1,0 +1,49 @@
+module registerfileBenchmark();
+  
+parameter WORD_SIZE=8;
+parameter OPERAND_SIZE=4;
+parameter REGS_NUMBER_WIDTH=4;
+parameter REGISTERS_NUMBER=1<<REGS_NUMBER_WIDTH;
+
+
+reg [OPERAND_SIZE-1:0] op1,op2,op3;
+reg [WORD_SIZE-1:0] datatoload;
+
+reg [1:0] regsetcmd;
+reg regsetwb;
+
+wire [WORD_SIZE-1:0] RegOp1;
+wire [WORD_SIZE-1:0] alu1; // to be the first operand of alu
+wire [WORD_SIZE-1:0] alu2;
+
+
+MCPU_Registerfile #(.WORD_SIZE(WORD_SIZE), .OPERAND_SIZE(OPERAND_SIZE), .REGS_NUMBER_WIDTH(REGS_NUMBER_WIDTH),.REGISTERS_NUMBER(REGISTERS_NUMBER))registerfile_instance(op1, op2, op3, RegOp1, alu1, alu2, datatoload, regsetwb, regsetcmd);
+
+
+initial begin
+  op1=15;
+  regsetwb=1;
+  datatoload=8'b00000111;
+  regsetcmd=2'b00;
+  
+  #2;
+  regsetwb=0;
+  #2;
+  op1=14;
+  regsetwb=1;
+  datatoload=8'b00000101;
+  regsetcmd=2'b00;
+  #2;
+  regsetwb=0;
+  #2;
+  op1=15;
+  op2=14;
+  regsetwb=1;
+  regsetcmd=2'b01;
+  
+  
+  
+  
+  
+end
+endmodule

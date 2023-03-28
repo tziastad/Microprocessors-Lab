@@ -1,0 +1,99 @@
+C:/Users/Dora/Desktop/Microprocessors/lab05-2/registerfileA.v {1 {vlog -work work C:/Users/Dora/Desktop/Microprocessors/lab05-2/registerfileA.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module registerfileA
+
+Top level modules:
+	registerfileA
+
+} {} {}} C:/Users/Dora/Desktop/Microprocessors/lab05-2/work/microcpu-rtl/ramcontroller.v {1 {vlog -work work C:/Users/Dora/Desktop/Microprocessors/lab05-2/work/microcpu-rtl/ramcontroller.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MCPU_RAMController
+
+Top level modules:
+	MCPU_RAMController
+
+} {} {}} C:/Users/Dora/Desktop/Microprocessors/lab05-2/registerfileB.v {1 {vlog -work work C:/Users/Dora/Desktop/Microprocessors/lab05-2/registerfileB.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module registerfileB
+
+Top level modules:
+	registerfileB
+
+} {} {}} C:/Users/Dora/Desktop/Microprocessors/lab05-2/work/microcpu-rtl/cputb.v {1 {vlog -work work C:/Users/Dora/Desktop/Microprocessors/lab05-2/work/microcpu-rtl/cputb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MCPUtb
+
+Top level modules:
+	MCPUtb
+
+} {} {}} C:/Users/Dora/Desktop/Microprocessors/lab05-2/newinstractionstb.v {1 {vlog -work work C:/Users/Dora/Desktop/Microprocessors/lab05-2/newinstractionstb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module newinstractionstb
+
+Top level modules:
+	newinstractionstb
+
+} {} {}} C:/Users/Dora/Desktop/Microprocessors/lab05-2/heilstoneseqAM.v {1 {vlog -work work C:/Users/Dora/Desktop/Microprocessors/lab05-2/heilstoneseqAM.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module heilstoneseqAM
+
+Top level modules:
+	heilstoneseqAM
+
+} {} {}} C:/Users/Dora/Desktop/Microprocessors/lab05-2/ramcontrollertbB.v {1 {vlog -work work C:/Users/Dora/Desktop/Microprocessors/lab05-2/ramcontrollertbB.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ramcontrollertbB
+
+Top level modules:
+	ramcontrollertbB
+
+} {} {}} C:/Users/Dora/Desktop/Microprocessors/lab05-2/heilstonesequence.v {1 {vlog -work work C:/Users/Dora/Desktop/Microprocessors/lab05-2/heilstonesequence.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module heilstonesequene
+
+Top level modules:
+	heilstonesequene
+
+} {} {}} C:/Users/Dora/Desktop/Microprocessors/lab05-2/work/microcpu-rtl/alu.v {1 {vlog -work work C:/Users/Dora/Desktop/Microprocessors/lab05-2/work/microcpu-rtl/alu.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MCPU_Alu
+
+Top level modules:
+	MCPU_Alu
+
+} {} {}} C:/Users/Dora/Desktop/Microprocessors/lab05-2/work/microcpu-rtl/registerfile.v {1 {vlog -work work C:/Users/Dora/Desktop/Microprocessors/lab05-2/work/microcpu-rtl/registerfile.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MCPU_Registerfile
+
+Top level modules:
+	MCPU_Registerfile
+
+} {} {}} C:/Users/Dora/Desktop/Microprocessors/lab05-2/work/microcpu-rtl/cpu.v {1 {vlog -work work C:/Users/Dora/Desktop/Microprocessors/lab05-2/work/microcpu-rtl/cpu.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MCPU
+
+Top level modules:
+	MCPU
+
+} {} {}} C:/Users/Dora/Desktop/Microprocessors/lab05-2/ramcontrollertb.v {1 {vlog -work work {C:\Users\Dora\Desktop\Microprocessors\lab05-2\ramcontrollertb.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ramcontrollertb
+
+Top level modules:
+	ramcontrollertb
+
+} {} {}} C:/Users/Dora/Desktop/Microprocessors/lab05-2/alutbB.v {1 {vlog -work work C:/Users/Dora/Desktop/Microprocessors/lab05-2/alutbB.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MCPU_AlutbB
+
+Top level modules:
+	MCPU_AlutbB
+
+} {} {}} C:/Users/Dora/Desktop/Microprocessors/lab05-2/work/microcpu-rtl/alutb.v {1 {vlog -work work C:/Users/Dora/Desktop/Microprocessors/lab05-2/work/microcpu-rtl/alutb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MCPU_Alutb
+
+Top level modules:
+	MCPU_Alutb
+
+} {} {}}

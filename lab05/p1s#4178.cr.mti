@@ -1,0 +1,15 @@
+C:/Users/Dora/Desktop/Microprocessors/lab05/d1s4178tb.v {1 {vlog -work work C:/Users/Dora/Desktop/Microprocessors/lab05/d1s4178tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module d1s4178tb
+
+Top level modules:
+	d1s4178tb
+
+} {} {}} C:/Users/Dora/Desktop/Microprocessors/lab05/d1s4178.v {1 {vlog -work work C:/Users/Dora/Desktop/Microprocessors/lab05/d1s4178.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module d1s4178
+
+Top level modules:
+	d1s4178
+
+} {} {}}

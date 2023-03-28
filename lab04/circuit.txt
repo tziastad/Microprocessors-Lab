@@ -1,0 +1,4 @@
+NOT f c
+AND e a b
+AND d e f
+
