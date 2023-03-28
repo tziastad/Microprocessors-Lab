@@ -1,4 +1,4 @@
 # Microprocessors-Lab
-Switching activity of elements with known and unknown workload
-Stress-test production with generic algorithm
+Switching activity of elements with known and unknown workload,
+stress-test production with generic algorithm,
 MicroCPU designing with Verilog
